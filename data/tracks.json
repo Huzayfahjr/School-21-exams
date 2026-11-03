@@ -3,8 +3,8 @@
     "telegram": "",
     "note": "telegram: bot username (no @). supabase.url / anonKey: from Supabase Project Settings > API (anon key only, NEVER service_role).",
     "supabase": {
-      "url": "",
-      "anonKey": ""
+      "url": "https://nqpaxzqjngupmwzonkky.supabase.co",
+      "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5xcGF4enFqbmd1cG13em9ua2t5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM2ODU1NjcsImV4cCI6MjEwOTI2MTU2N30.kluy4kafVYELy_zWnXGoE8FRL-SSgDZQFXWSBV4vN8I"
     }
   },
   "tracks": [
