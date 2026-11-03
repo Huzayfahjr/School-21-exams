@@ -1,0 +1,64 @@
+{
+  "site": {
+    "telegram": "",
+    "note": "telegram: bot username (no @). supabase.url / anonKey: from Supabase Project Settings > API (anon key only, NEVER service_role).",
+    "supabase": {
+      "url": "",
+      "anonKey": ""
+    }
+  },
+  "tracks": [
+    {
+      "id": "sql",
+      "status": "active",
+      "name": [
+        "SQL",
+        "SQL"
+      ],
+      "desc": [
+        "Реляционные БД, запросы, транзакции, нормальные формы.",
+        "Relyatsion MB, so'rovlar, tranzaksiyalar, normal shakllar."
+      ],
+      "exams": [
+        {
+          "id": "sql-exam-t",
+          "bank": "data/sql-exam-t.json",
+          "name": [
+            "SQL-exam-t · теория и практика",
+            "SQL-exam-t · nazariya va amaliyot"
+          ],
+          "mix": {
+            "practice": 15,
+            "theory": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "status": "soon",
+      "name": [
+        "Язык C",
+        "C tili"
+      ],
+      "desc": [
+        "Указатели, память, строки, сборка.",
+        "Ko'rsatkichlar, xotira, satrlar, kompilyatsiya."
+      ],
+      "exams": []
+    },
+    {
+      "id": "linux",
+      "status": "soon",
+      "name": [
+        "Linux",
+        "Linux"
+      ],
+      "desc": [
+        "Командная строка, права доступа, процессы, скрипты.",
+        "Buyruq qatori, ruxsatlar, jarayonlar, skriptlar."
+      ],
+      "exams": []
+    }
+  ]
+}
